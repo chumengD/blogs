@@ -1,1 +1,5 @@
 .omc/
+.vitepress/dist/
+.vitepress/.temp/
+.vitepress/.vite/
+node_modules
