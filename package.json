@@ -1,0 +1,13 @@
+{
+  "name": "vitepress-demo",
+  "version": "1.0.0",
+  "description": "A VitePress Site",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
