@@ -1,25 +1,12 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "blogs"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "chumengD's Blog"
+  text: "个人博客"
+  tagline: 记录折腾与学习
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 查看博客
+      link: /jmcomic
 ---
-

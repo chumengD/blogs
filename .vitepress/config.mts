@@ -2,21 +2,20 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "blogs",
-  description: "A VitePress Site",
+  title: "chumengD's Blog",
+  description: "个人博客",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '博客', link: '/jmcomic' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '博客',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'AstrBot + NapCat + JMComic 漫画下载器', link: '/jmcomic' }
         ]
       }
     ],
